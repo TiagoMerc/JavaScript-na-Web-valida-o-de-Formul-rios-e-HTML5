@@ -12,7 +12,7 @@ Faça esse curso de JavaScript e:
 
 **Instrutor:** Matheus Alberto
 
-!icone:git 
+:git_hub 
 
 [GitHub](https://github.com/ikyrie)
 
@@ -27,4 +27,27 @@ GitHub Pages:
 **Início do projeto**
 
 ![Início do projeto](./assets/img/print/inicioProjeto.png)
+
+*Regex para senhas*
+
+[Regex lib](https://regexlib.com/Search.aspx?k=password&AspxAutoDetectCookieSupport=1)
+
+
+**pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?!.*[ !@#$%^&*_=+-]).{6,12}$"**
+
+**Treinar escrita de regex**
+
+[Treinar escrita de regex](https://regexr.com/)
+
+**Nesta aula, aprendemos:**
+
+- Fazer validações no próprio HTML utilizando os atributos **required** e **type**.
+
+- Usar regras de regex dentro do atributo **pattern** para validar o campo de senha.
+
+- Mandar uma mensagem customizada de erro no balão do navegador.
+
+### 02. Validações customizadas
+
+
 
