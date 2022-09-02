@@ -12,8 +12,7 @@ Faça esse curso de JavaScript e:
 
 **Instrutor:** Matheus Alberto
 
-:git_hub 
-
+:octocat:	
 [GitHub](https://github.com/ikyrie)
 
 __________
@@ -32,6 +31,7 @@ GitHub Pages:
 
 [Regex lib](https://regexlib.com/Search.aspx?k=password&AspxAutoDetectCookieSupport=1)
 
+Regex: ^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?!.*[ !@#$%^&*_=+-]).{6,12}$ 
 
 **pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?!.*[ !@#$%^&*_=+-]).{6,12}$"**
 
@@ -49,5 +49,54 @@ GitHub Pages:
 
 ### 02. Validações customizadas
 
+**Validar data de nascimento**
 
+![Validar data de nascimento](./assets/img/print/validarNascimento.png)
+
+**Cadastro feito | Validar data de nascimento**
+
+![Cadastro feito | Validar data de nascimento](./assets/img/print/validacaoNascimento2.png)
+
+**Nesta aula, aprendemos:**
+
+- Criar funções para validações customizadas do formulário
+
+- Definir mensagens customizadas para validações fora do HTML
+
+- Utilizar data attributes para trabalhar com JavaScript
+
+- Deixar a função de validação mais genérica para funcionar com qualquer **input**
+
+### 03. Mensagens customizadas 
+
+**Browser servers**
+
+npm install -g browser-sync 
+
+Na raiz do projeto 
+
+browser-sync start -s -f . --directory
+
+**Customizados as mensagens de erro**
+
+
+![Mensagem de Erro Customizados](./assets/img/print/mensagensDeErroCustomizadas.png)
+
+**Mensagem de Erro E-mail** 
+
+![Mensagem de Erro e-mail](./assets/img/print/mensagemErroEmail.png)
+
+**Mensagem de Erro Senha**
+
+![Mensagem de Erro Senha](./assets/img/print/mensagemErroSenha.png)
+
+**Nesta aula, aprendemos:**
+
+- A instalar e usar o plugin Liveserver
+
+- Como baixar e rodar o browser-sync
+
+- Como mostrar a mensagem de erro diretamente no HTML
+
+- Como customizar as mensagens de erro de validação
 
