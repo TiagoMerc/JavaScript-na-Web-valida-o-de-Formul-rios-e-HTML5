@@ -100,3 +100,23 @@ browser-sync start -s -f . --directory
 
 - Como customizar as mensagens de erro de validação
 
+### 04. Validando CPF
+
+**Validando CPF com números repetidos | ERRO**
+
+![Validando CPF com números repetidos | ERRO](./assets/img/print/validandoCPF.png)
+
+**Validando CPF com números repetidos | CERTO**
+
+![Validando CPF com números repetidos | CERTO](./assets/img/print/cpfCerto.png)
+
+**Nesta aula, aprendemos:**
+
+- A validar cpf com números repetidos
+
+- A matemática por trás da validação de um CPF
+
+- Recursão de função
+
+### 05. Conectando com a API Via CEP
+
