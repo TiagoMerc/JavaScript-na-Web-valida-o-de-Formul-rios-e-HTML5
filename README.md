@@ -120,3 +120,12 @@ browser-sync start -s -f . --directory
 
 ### 05. Conectando com a API Via CEP
 
+**Nesta aula, aprendemos:**
+
+- Outra estrutura de regex para a pré validação do CEP
+
+- Como fazer uma requisição para a API da ViaCEP
+
+- Preencher outros campos do formulário com a resposta da API da ViaCEP
+
+![API via CEP](./assets/img/print/APIviaCEP.png)
