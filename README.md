@@ -129,3 +129,15 @@ browser-sync start -s -f . --directory
 - Preencher outros campos do formulário com a resposta da API da ViaCEP
 
 ![API via CEP](./assets/img/print/APIviaCEP.png)
+
+### 04. Aplicação de máscara
+
+**simple-mask-money**
+
+![simple-mask-money](https://github.com/codermarcos/simple-mask-money)
+
+**Nesta aula, aprendemos:**
+
+- Como adicionar máscara monetária para o campo de preço.
+
+*
