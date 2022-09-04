@@ -134,10 +134,14 @@ browser-sync start -s -f . --directory
 
 **simple-mask-money**
 
-![simple-mask-money](https://github.com/codermarcos/simple-mask-money)
+[simple-mask-money](https://github.com/codermarcos/simple-mask-money)
+
+**Aplicação de máscara**
+
+![Aplicação de máscara](https://user-images.githubusercontent.com/71729281/188292928-98a9ae91-25ce-49dd-a9b2-0f8a2c508bf4.png)
 
 **Nesta aula, aprendemos:**
 
 - Como adicionar máscara monetária para o campo de preço.
 
-*
+
